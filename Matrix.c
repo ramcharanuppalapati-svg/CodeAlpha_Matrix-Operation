@@ -34,6 +34,7 @@ for(i=0;i<3;i++) {
     }
     printf("\n");
 }
+//Addition Progam
 printf("Addition\n");
 for(i=0;i<3;i++) {
     for(j=0;j<3;j++) {
@@ -47,6 +48,7 @@ for(i=0;i<3;i++) {
     }
 printf("\n");
 }
+//Product Progam
 printf("Product");    
     for (i = 0; i < 3; i++) {
         for (j = 0; j < 3; j++) {
@@ -63,6 +65,7 @@ for(i=0;i<3;i++) {
     }
     printf("\n");
 }
+//Transpose Progam
 printf("Transpose of matrix A:");
 for(i=0;i<3;i++) {
     for(j=0;j<3;j++) {
